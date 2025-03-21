@@ -1,2 +1,2 @@
 # Inventory
-first inventory n progress to perfection
+first inventory in progress to perfection
