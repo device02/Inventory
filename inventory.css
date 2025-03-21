@@ -1,0 +1,48 @@
+h2{
+    color: white;
+    background-color: #9fbdb0;
+    
+}
+input{
+    border-radius: 20px; 
+    width: 200px; 
+    padding: 5px;
+   }
+button.adding{
+    width: 100px;
+    border-radius: 10px;
+    background-color:  #9fbdb0;
+    padding: 5px;
+}
+
+button.adding:hover{
+    cursor: pointer;
+}
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    padding: 0;
+    text-align: center;
+    background-color: rgb(53, 117, 82);
+}
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+th, td {
+    border: 2px solid black;
+    padding: 10px;
+    text-align: left;
+    font-family: calibri;
+}
+th {
+    background-color: #9fbdb0;
+}
+    
+button {
+    margin: 5px;
+}
+tbody{
+    background-color: azure;
+}
